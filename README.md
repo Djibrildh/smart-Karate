@@ -1,4 +1,4 @@
-# Kan Intelligent
+# Kata Intelligent
 
 ## **Présentation du projet**
 
