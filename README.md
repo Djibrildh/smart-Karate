@@ -1,4 +1,4 @@
-# Kata Intelligent
+# Karate Intelligent
 
 ## **Présentation du projet**
 
